@@ -12,7 +12,7 @@ import (
 
 	"gopkg.in/gomail.v2"
 
-	"github.com/elsonwu/goutil"
+	"github.com/coursenetworking/goutil"
 )
 
 var host = flag.String("host", "", "Base URL, Ex. https://www.thecn.com")
